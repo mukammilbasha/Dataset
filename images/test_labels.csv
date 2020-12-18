@@ -1,0 +1,63 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+BikesHelmets10.png,400,241,Without Helmet,185,4,226,41
+BikesHelmets11.png,600,450,With Helmet,135,22,231,128
+BikesHelmets11.png,600,450,With Helmet,19,70,75,137
+BikesHelmets11.png,600,450,With Helmet,300,73,342,131
+BikesHelmets11.png,600,450,With Helmet,355,21,413,99
+BikesHelmets11.png,600,450,With Helmet,61,73,114,130
+BikesHelmets11.png,600,450,With Helmet,561,47,600,95
+BikesHelmets12.png,480,360,With Helmet,218,58,258,104
+BikesHelmets13.png,598,557,With Helmet,278,30,356,139
+BikesHelmets14.png,400,223,With Helmet,165,66,227,138
+BikesHelmets21.png,400,267,With Helmet,103,27,222,146
+BikesHelmets22.png,400,298,With Helmet,186,11,244,73
+BikesHelmets22.png,400,298,With Helmet,132,3,184,53
+BikesHelmets23.png,400,301,With Helmet,112,27,161,82
+BikesHelmets23.png,400,301,With Helmet,306,75,332,99
+BikesHelmets23.png,400,301,With Helmet,338,76,356,100
+BikesHelmets24.png,400,329,With Helmet,107,5,203,129
+BikesHelmets8.png,400,300,With Helmet,166,2,220,75
+BikesHelmets8.png,400,300,Without Helmet,215,5,244,51
+BikesHelmets9.png,400,234,Without Helmet,150,17,179,49
+BikesHelmets9.png,400,234,Without Helmet,110,60,135,88
+maksssksksss139.png,400,225,with_mask,2,28,19,46
+maksssksksss139.png,400,225,with_mask,23,36,45,59
+maksssksksss139.png,400,225,without_mask,30,71,51,92
+maksssksksss139.png,400,225,with_mask,4,177,35,209
+maksssksksss139.png,400,225,with_mask,93,15,117,34
+maksssksksss139.png,400,225,with_mask,99,74,122,100
+maksssksksss139.png,400,225,mask_weared_incorrect,56,132,79,162
+maksssksksss139.png,400,225,with_mask,36,152,65,183
+maksssksksss139.png,400,225,with_mask,138,191,165,221
+maksssksksss139.png,400,225,with_mask,182,13,209,36
+maksssksksss139.png,400,225,with_mask,188,55,213,80
+maksssksksss139.png,400,225,with_mask,196,146,219,168
+maksssksksss139.png,400,225,with_mask,213,164,243,193
+maksssksksss139.png,400,225,with_mask,253,13,277,35
+maksssksksss139.png,400,225,with_mask,246,73,268,98
+maksssksksss139.png,400,225,with_mask,286,10,314,38
+maksssksksss139.png,400,225,with_mask,320,1,341,15
+maksssksksss139.png,400,225,with_mask,345,34,372,57
+maksssksksss139.png,400,225,with_mask,358,116,388,141
+maksssksksss146.png,400,267,with_mask,119,122,184,192
+maksssksksss146.png,400,267,with_mask,265,90,324,153
+maksssksksss147.png,400,250,without_mask,103,9,120,33
+maksssksksss147.png,400,250,with_mask,198,15,218,36
+maksssksksss147.png,400,250,with_mask,224,89,243,109
+maksssksksss147.png,400,250,with_mask,272,33,294,55
+maksssksksss216.png,400,300,with_mask,8,64,43,93
+maksssksksss216.png,400,300,with_mask,225,44,261,93
+maksssksksss216.png,400,300,with_mask,208,52,225,77
+maksssksksss216.png,400,300,with_mask,328,48,348,66
+maksssksksss216.png,400,300,without_mask,138,55,169,82
+maksssksksss217.png,301,400,without_mask,115,202,218,341
+maksssksksss218.png,301,400,without_mask,139,223,251,371
+maksssksksss219.png,400,267,with_mask,120,122,184,194
+maksssksksss219.png,400,267,with_mask,266,92,323,151
+maksssksksss839.png,400,261,with_mask,50,81,68,99
+maksssksksss839.png,400,261,with_mask,96,47,109,63
+maksssksksss839.png,400,261,with_mask,212,56,230,77
+maksssksksss839.png,400,261,with_mask,354,42,372,67
+maksssksksss845.png,301,400,with_mask,101,197,180,306
+maksssksksss852.png,267,400,with_mask,139,94,198,147
+maksssksksss852.png,267,400,without_mask,92,86,132,125
